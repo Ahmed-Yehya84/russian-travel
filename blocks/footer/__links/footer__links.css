@@ -1,0 +1,17 @@
+.footer__links {
+  list-style: none;
+  display: flex;
+  gap: 18px;
+  padding: 0;
+  align-items: flex-start;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 320px) {
+  .footer__links {
+    flex-direction: column;
+    margin: 0;
+    gap: 32px;
+  }
+}

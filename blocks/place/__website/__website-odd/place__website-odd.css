@@ -1,0 +1,10 @@
+.place__website-odd {
+  margin: 106px 0 48px 40px;
+}
+
+@media screen and (max-width: 768px) {
+  .place__website-odd:first-of-type {
+    max-width: 352px;
+    margin: 46px 0 48px 28px;
+  }
+}
