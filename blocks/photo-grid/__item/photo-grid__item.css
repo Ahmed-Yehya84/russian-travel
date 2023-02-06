@@ -1,12 +1,7 @@
 .photo-grid__item {
   max-width: 100%;
   display: block;
-}
-
-@media screen and (max-width: 1024px) {
-  .photo-grid__item {
-    object-fit: cover;
-  }
+  object-fit: cover;
 }
 
 @media screen and (max-width: 768px) {

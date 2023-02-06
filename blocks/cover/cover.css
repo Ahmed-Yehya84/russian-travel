@@ -1,7 +1,5 @@
 .cover {
-  position: relative;
   max-width: 95%;
-  min-height: 740px;
   display: flex;
   margin: 0 48px 92px 48px;
 }
