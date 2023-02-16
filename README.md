@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-#### адрес страницы:https://ahmed-yehya84.github.io/russian-travel/
+#### адрес страницы: https://ahmed-yehya84.github.io/Russian-Travel-adaptive/
 
 ### О проекте
 
