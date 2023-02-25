@@ -1,0 +1,15 @@
+.place__website_type_odd {
+  margin: 106px 28px 0 0;
+}
+
+@media screen and (max-width: 768px) {
+  .place__website_type_odd {
+    margin: 46px 0 0 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__website_type_odd {
+    margin: 0 16px 32px 16px;
+  }
+}
