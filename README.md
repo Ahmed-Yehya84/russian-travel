@@ -16,4 +16,5 @@ Travel to Russia is still under development, as the English version of the page 
 
 ### скриншот проекта
 
+<a href="https://ibb.co/HYGNrtb"><img src="https://i.ibb.co/7VrgGnZ/travel-russia.png" alt="travel-russia" border="0"></a>
 
