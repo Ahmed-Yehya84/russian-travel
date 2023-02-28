@@ -10,7 +10,7 @@ Russian travel - это веб-страница, которая знакомит
 
 ### About the project
 
-Russian travel is a web page that introduces visitors to the vast lands of Russia. the site presents the main attractions that cannot be missed during a trip to Russia. Russian travel was created using html5 and css3. The layout was created using css grid and flexbox, the font used in "Inter". Russian travel has been designed in such a way that it can be adapted to different screen sizes. visitors to the page can view it on large desktop screens, desktop PCs, tablets and screens up to 320 pixels in size.
+Russian travel is a web page that introduces visitors to the vast lands of Russia. the site presents the main attractions that cannot be missed during a trip to Russia. Russian travel was created using html5 and css3. The layout was created using css grid and flexbox, the font used is "Inter". Russian travel has been designed in such a way that it can be adapted to different screen sizes. visitors to the page can view it on large desktop screens, tablets and screens up to 320 pixels in size.
 
 Travel to Russia is still under development, as the English version of the page has not yet been created to show the beauty that Russia can offer to a huge number of visitors.
 
